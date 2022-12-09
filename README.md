@@ -1,5 +1,4 @@
 # 2022Fall_assignment4_template
-made by TA Pohan Wang (2022 Fall)
 
 1. The core idea in this assignemnt4 is to let the students be able to come up with an basic OOP framework, and practice a collobrative programming work through Git.
 
